@@ -23,6 +23,7 @@ build/
 # Pipeline output
 logs/
 charts_output/
+.pytest_cache/
 
 # OS
 .DS_Store
